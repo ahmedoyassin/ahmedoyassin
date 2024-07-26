@@ -10,6 +10,9 @@
 
 - Ex- Software Engineer Intern at El-Sewedy Electrometer
 
+  - 📫 How to reach me **ahmedoyassin02@gmail.com**
+
+## 🔗 Links
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmedoyassin-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Yassin" height="30" width="40" /></a>
