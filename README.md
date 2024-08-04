@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ahmed Yassin</h1>
 <h3 align="center">A Software Developer From Egypt</h3>
 
-- 🔭 I’m currently learning **Linux**, **C++**, **Python**, **AI**, **Embedded Systems**, And **Embedded Linux**
+- 🔭 I’m currently learning **Linux**, **C++**, **Python**, **AI**, **Qt**, **QML**, **Embedded Systems**, And **Embedded Linux**
 
 - 🌱 Senior II Electronics and Electrical Communication Engineering student at Cairo University
 
 - Embedded Systems Development Team Member at Cairo University Racing Team Formula Student.
 - Embedded Systems Instructor at IEEE Cairo University.
 
-- Ex- Software Intern at El-Sewedy Electrometer
+- Embedded Trainee at Siemens EDA
+
+- Ex-Software Intern at El-Sewedy Electrometer
 
 - 📫 How to reach me **ahmedoyassin02@gmail.com**
 
