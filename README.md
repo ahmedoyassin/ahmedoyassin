@@ -5,10 +5,9 @@
 
 - 🌱 Senior II Electronics and Electrical Communication Engineering student at Cairo University
 
+- Embedded Trainee at Siemens EDA
 - Embedded Systems Development Team Member at Cairo University Racing Team Formula Student.
 - Embedded Systems Instructor at IEEE Cairo University.
-
-- Embedded Trainee at Siemens EDA
 
 - Ex-Software Intern at El-Sewedy Electrometer
 
