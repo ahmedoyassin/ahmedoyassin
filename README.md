@@ -7,9 +7,8 @@
 - 🌱 Senior II Electronics and Electrical Communication Engineering student at Cairo University
 
 - Embedded Trainee at Siemens EDA
-- Embedded Systems Development Team Member at Cairo University Racing Team Formula Student.
-- Embedded Systems Instructor at IEEE Cairo University.
-
+- Ex-Embedded Systems Developer at Cairo University Racing Team Formula Student.
+- Ex-Embedded Systems Instructor at IEEE Cairo University.
 - Ex-Software Intern at El-Sewedy Electrometer
 
 - 📫 How to reach me **ahmedoyassin02@gmail.com**
