@@ -8,8 +8,8 @@
 
 - Embedded Trainee at Siemens EDA
 - Ex-Embedded Systems Developer at Cairo University Racing Team Formula Student.
-  Ex-Embedded Systems Instructor at IEEE Cairo University.
-  Ex-Software Intern at El-Sewedy Electrometer
+- Ex-Embedded Systems Instructor at IEEE Cairo University.
+- Ex-Software Intern at El-Sewedy Electrometer
 
 - 📫 How to reach me **ahmedoyassin02@gmail.com**
 
