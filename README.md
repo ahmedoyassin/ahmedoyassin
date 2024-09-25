@@ -12,6 +12,7 @@
 - Ex-Software Intern at El-Sewedy Electrometer
 
 - 📫 How to reach me **ahmedoyassin02@gmail.com**
+- You can checkout My Resume via **https://drive.google.com/drive/u/3/folders/1BWvZqlvsNnRJ4vkFLaFnPTO583ITNspZ**
 
 
 <h3 align="left">Connect with me:</h3>
