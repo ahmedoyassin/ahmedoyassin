@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer From Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 🔭 I’m currently learning **Linux**, **C++**, **Python**, **AI**, **Qt**, **QML**, **Embedded Systems**, And **Embedded Linux**
+- 🔭 I’m currently learning **Linux**, **C++**, **Python**, **AI**, **Qt**, **QML**, **Embedded Systems**, **Embedded Linux**, **Classical AUTOSAR**, and **Adaptive AUTOSAR**.
 
 - 🌱 Senior II Electronics and Electrical Communication Engineering student at Cairo University
 
