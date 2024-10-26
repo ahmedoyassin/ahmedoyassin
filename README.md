@@ -11,7 +11,7 @@
 - Ex-Embedded Systems Instructor at IEEE Cairo University.
 - Ex-Software Intern at El-Sewedy Electrometer
 
-- 📫 How to reach me [Mail](ahmedoyassin02@gmail.com), [LinkedIn](https://www.linkedin.com/in/ahmedoyassin-/)
+- 📫 How to reach me [Mail](ahmedoyassin02@gmail.com), or [LinkedIn](https://www.linkedin.com/in/ahmedoyassin-/)
 - You can checkout My  [Resume](https://drive.google.com/drive/u/3/folders/1BWvZqlvsNnRJ4vkFLaFnPTO583ITNspZ)
 
 
