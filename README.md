@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer From Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 🔭 I’m currently learning **Linux**, **C++**, **Python**, **AI**, **Qt**, **QML**, **Embedded Systems**, **Embedded Linux**, **Classical AUTOSAR**, and **Adaptive AUTOSAR**.
+- 🔭 I’m interested in **Linux**, **C++**, **AI**, **Embedded Systems**, **Embedded Linux**, **Classical AUTOSAR**, and **Adaptive AUTOSAR**.
 
 - 🌱 Senior II Electronics and Electrical Communication Engineering student at Cairo University
 
@@ -11,8 +11,8 @@
 - Ex-Embedded Systems Instructor at IEEE Cairo University.
 - Ex-Software Intern at El-Sewedy Electrometer
 
-- 📫 How to reach me **ahmedoyassin02@gmail.com**
-- You can checkout My Resume via **https://drive.google.com/drive/u/3/folders/1BWvZqlvsNnRJ4vkFLaFnPTO583ITNspZ**
+- 📫 How to reach me [Mail](ahmedoyassin02@gmail.com), [LinkedIn](https://www.linkedin.com/in/ahmedoyassin-/)
+- You can checkout My  [Resume](https://drive.google.com/drive/u/3/folders/1BWvZqlvsNnRJ4vkFLaFnPTO583ITNspZ)
 
 
 <h3 align="left">Connect with me:</h3>
