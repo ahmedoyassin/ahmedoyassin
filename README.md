@@ -2,6 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 A guy who likes motions and graphics coding. He currently learns more about computer graphics. He also currently learns Deutsch.
+
 Ich spreche Deutsch :)
 
 
