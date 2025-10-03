@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Ahmed Yassin</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/ahmedoyassin-/), or [Mail](ahmedoyassin02@gmail.com)
-- You can checkout My  [Resume](https://drive.google.com/drive/u/3/folders/1BWvZqlvsNnRJ4vkFLaFnPTO583ITNspZ)
+A guy who likes motions and graphics coding. He currently learns more about computer graphics. He also currently learns Deutsch. Ich spreche Deutsch :)
+
+
+- You can reach me at [LinkedIn](https://www.linkedin.com/in/ahmedoyassin-/), or [Mail](ahmedoyassin02@gmail.com)
+- You can check-out my  [Resume](https://drive.google.com/drive/u/3/folders/1BWvZqlvsNnRJ4vkFLaFnPTO583ITNspZ)
 
 
 <h3 align="left">Connect with me:</h3>
