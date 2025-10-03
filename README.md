@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Ahmed Yassin</h1>
 <h3 align="center">Software Engineer</h3>
 
-A guy who likes motions and graphics coding. He currently learns more about computer graphics. He also currently learns Deutsch. Ich spreche Deutsch :)
+A guy who likes motions and graphics coding. He currently learns more about computer graphics. He also currently learns Deutsch.
+Ich spreche Deutsch :)
 
 
 - You can reach me at [LinkedIn](https://www.linkedin.com/in/ahmedoyassin-/), or [Mail](ahmedoyassin02@gmail.com)
