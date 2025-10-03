@@ -3,7 +3,7 @@
 
 A guy who likes motions and graphics coding. He currently learns more about computer graphics. He also currently learns Deutsch.
 
-Ich spreche Deutsch :)
+Ich spreche Arabisch und Englisch. Ich lerne Deutsch :)
 
 
 - You can reach me at [LinkedIn](https://www.linkedin.com/in/ahmedoyassin-/), or [Mail](ahmedoyassin02@gmail.com)
