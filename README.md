@@ -3,9 +3,6 @@
 
 A guy who likes motions and graphics coding. He currently learns more about computer graphics, Android Development and 3D designs including qt developments.
 
-
-- You can reach me at [LinkedIn](https://www.linkedin.com/in/ahmedoyassin02/), or [Mail](ahmedoyassin02@gmail.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmedoyassin-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedoyassin-" height="30" width="40" /></a>
