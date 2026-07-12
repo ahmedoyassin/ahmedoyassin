@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahmed Yassin</h1>
 <h3 align="center">Software Engineer</h3>
 
-A guy who likes motions and graphics coding. He currently learns more about computer graphics, Android Development and 3D designs including qt developments.
+A guy who likes whatever related to tech :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
